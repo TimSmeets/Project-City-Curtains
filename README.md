@@ -5,7 +5,7 @@ Rowan - Criticus
 - Index, Photos, Ad Design
 
 
-Tim - Ondernemer, Innovator
+Tim - Ondernemer, Innovator, Manager
 - Index, Styling, Ad Design, Links
 
 

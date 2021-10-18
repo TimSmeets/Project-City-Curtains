@@ -1,15 +1,15 @@
 CREDITS
 
-Rowan - Criticus
+Rowan - Criticus -
 Photos, Photos, Routes, Ad Design
 
-Tim - Ondernemer, Innovator
+Tim - Ondernemer, Innovator -
 Index, Styling, Ad Design, Links
 
-Noah - Analist, Criticus
+Noah - Analist, Criticus -
 Routes, Routes, Links, Research
 
-Youri - Coach
+Youri - Coach -
 Routes, Contact, Styling, Research
 
 

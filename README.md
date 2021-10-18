@@ -2,7 +2,7 @@ CREDITS
 
 
 Rowan - Criticus
-- Index, Photos, Ad Design
+- Index, Photos, Overall Design
 
 
 Tim - Ondernemer, Innovator, Manager

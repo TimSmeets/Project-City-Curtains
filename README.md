@@ -14,7 +14,7 @@ Noah - Analist, Criticus
 
 
 Youri - Coach
-- Routes, Contact, Research
+- Routes, Contact, Ad Design, Research
 
 
 

@@ -1,6 +1,4 @@
-body    {background-image: url('../assets/sydneybackground.jfif');
-			
-				background-size: 100%;
-				
-				}
-				
+body {
+	background-image: url('../assets/MainBG.png');
+	background-size: 100%;
+}
